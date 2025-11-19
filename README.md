@@ -12,7 +12,7 @@ Main objective of this project is to improve dashboard design and to get comfort
 Enable users to interactively explore top movies by different categories.
 
 ## Overview
-We wanted to know which movies are on top 10, top Actors, top Director etc..
+We wanted to know which movies are on top 10, top Actors, top Director etc...
 
 ![IMDB-movies](gif/imdb-gif.gif)
 
