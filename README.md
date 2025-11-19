@@ -17,27 +17,24 @@ We wanted to know which movies are on top 10, top Actors, top Director etc...
 ![IMDB-movies](gif/imdb-gif.gif)
 
 ## Key Features
-- **KPI Cards:** Total flights, delayed flights, and cancelled flights with mini trend charts
-- **Top Airports Bar:** Ranked city airports by flight volume 
-- **Delay Breakdown:** Horizontal bars showing percent of flights delayed per airline (easy to compare performance)
-- **On-Time / Delayed / Cancelled Summary:** Clear percentage cards for operational snapshot (e.g., 58.0% on-time, 40.5% delayed, 1.5% cancelled)
-- **Cancellation Causes (donut chart):** Visual split of cancellations by cause (weather, airline/carrier, national air system)
-- **Cancellation Rate:** Small-period bars to monitor spikes over time
-- **Interactive filters & UX helpers:** Airport, Airline, Cause, and Date range for guided analysis
+- 🎯 **Single selector (Choose Movie):** one dropdown that filters every KPI on top page
+- 🧾 **KPI cards:** Gross, IMDb rating, No. of votes, Year, Meta score, Duration etc..
+- 📊 **Top-10 visualizations:** Gross by Movie Title (bar), Top Actor by Votes (bar), Gross by Directors (treemap)
+- 📈 **Gross over time:** area chart showing box-office trends by year (with peak callouts)
+- 🧭 **Genre insights:** genre word-cloud/tag cluster to show dominant genres for the selected title and overall dataset
+- 🧩 **Scrollable detail table:** scrollable list of movies with Gross, No. of Votes, Meta score, IMDb rating for easy comparison
+- 📝 **Summary panel (center):** movie synopsis and brand/logo area that updates with the selected movie — a quick contextual snapshot
 
 ## Files in this repository
-- `datasets/` — (https://www.youtube.com/watch?v=aLV4Qe60VK4) refer to this like since the size is more than 25mb to upload here
+- `dataset/` — 
 - `README.md` — this file  
-- `image/` — image of the dashboard for quick preview, gif and background used
+- `image/` — 
 
-## How to open in Power BI
-1. Download Flight Satus.pbix
-2. Open in Power BI Desktop.
-3. Interact with slicers, filters, and visuals to explore LEGO data.
+## How to open Tableau Dashboard
+1. click: https://tinyurl.com/imdb-mov
 
 ## Contact
 Rowel Andrew Legaspi (Drew)  
-- Maven Analytics: https://mavenshowcase.com/project/53770
 - LinkedIn: https://www.linkedin.com/in/rowel-andrew-legaspi-289936241/
 - Tableau Profile: https://public.tableau.com/app/profile/rowel.andrew.legaspi
 
