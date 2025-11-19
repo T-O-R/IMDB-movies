@@ -14,7 +14,7 @@ Enable users to interactively explore top movies by different categories.
 ## Overview
 We wanted to know which movies are on top 10, top Actors, top Director etc..
 
-![IMDB-movies](image/avation.gif)
+![IMDB-movies](gif/imdb-gif.gif)
 
 ## Key Features
 - **KPI Cards:** Total flights, delayed flights, and cancelled flights with mini trend charts
